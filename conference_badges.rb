@@ -1,2 +1,2 @@
 def badge_maker(name)
-  Hello, m
+  "Hello, my name is #{name}"
